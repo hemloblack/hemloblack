@@ -2,7 +2,7 @@ hello im hamidreza pormahyabadi 🙋‍♂️
 
 im from kerman
 
-university✏️
+Studying at university✏️
 
 Student in software course...👨‍💻💻
 
