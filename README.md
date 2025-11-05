@@ -26,7 +26,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">hello im hamidreza pormahyabadi 🙋‍♂️
+
+[Demo Web](https://hamidpormahyabadi.vercel.app/)
+
+im from kerman
+
+Studying at university✏️
+
+Student in software course...👨‍💻💻</p>
 
 ###
 
