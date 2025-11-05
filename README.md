@@ -46,7 +46,7 @@ Student in software course...👨‍💻💻</p>
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hemloblack&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hemloblack&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <div align="center">
