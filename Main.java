@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String[] firstNames = new String[2];
+        String[] firstNames = new String2];
         String[] lastNames = new String[2];
         int[] hireYears = new int[2];
         String[] departments = new String[2];
