@@ -18,6 +18,7 @@
 </p>
 
 <p align="center">
+
   <a href="https://hayora.ir">
     <img src="https://img.shields.io/badge/🚀_Hayora-Website-00B894?style=for-the-badge"/>
   </a>
@@ -29,6 +30,7 @@
   <a href="mailto:digidezh@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
 <br>
@@ -50,6 +52,8 @@
 
 <br>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!--                       TECH STACK                           -->
@@ -70,61 +74,11 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                         PROJECTS                            -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 Projects</h2>
-
-<p align="center">
-
-  <a href="https://github.com/hemloblack/android_project">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=hemloblack&repo=android_project&theme=tokyonight&hide_border=true&border_radius=12"
-    />
-  </a>
-
-  <a href="https://github.com/hemloblack/webstore">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=hemloblack&repo=webstore&theme=tokyonight&hide_border=true&border_radius=12"
-    />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/hemloblack/weather">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=hemloblack&repo=weather&theme=tokyonight&hide_border=true&border_radius=12"
-    />
-  </a>
-
-  <a href="https://github.com/hemloblack/DB">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=hemloblack&repo=DB&theme=tokyonight&hide_border=true&border_radius=12"
-    />
-  </a>
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/hemloblack?tab=repositories">
-    <img src="https://img.shields.io/badge/⚡_View_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<br>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <!--                       GITHUB STATS                         -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
   <img
@@ -151,7 +105,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                         CONNECT                             -->
+<!--                         CONNECT                            -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
