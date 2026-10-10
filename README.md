@@ -85,12 +85,12 @@
     height="175"
     src="https://github-readme-stats.vercel.app/api?username=hemloblack&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15"
   />
-
-<img
+</p>
+<p aline="center">
+<img 
  height="175"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemloblack&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=15"
 />
-
 </p>
 
 <p align="center">
